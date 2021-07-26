@@ -20,6 +20,7 @@
 - 汇总
     - NLP 各方面：https://github.com/fighting41love/funNLP
     - NLP 开源项目：https://github.com/yongzhuo/nlp_xiaojiang
-- 语料库
+- 工具包
     - 中文语料库：https://github.com/Embedding/Chinese-Word-Vectors
+    - nltk_data: https://github.com/nltk/nltk_data 手动下载nltk_data地址
 -----------------------------------------------------------------------------------------------------------------------------------------
