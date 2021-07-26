@@ -22,5 +22,6 @@
     - [NLP 开源项目](https://github.com/yongzhuo/nlp_xiaojiang)
 - 工具包
     - [中文词向量语料库](https://github.com/Embedding/Chinese-Word-Vectors)
-    - [nltk_data](https://github.com/nltk/nltk_data) 手动下载nltk_data地址
+    - [nltk_data(github)](https://github.com/nltk/nltk_data) 手动下载nltk_data地址
+    - [nltk_data(gitee)](https://gitee.com/qwererer2/nltk_data/tree/gh-pages/)
 -----------------------------------------------------------------------------------------------------------------------------------------
