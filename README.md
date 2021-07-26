@@ -18,9 +18,9 @@
     - [国际计算语言学协会](http://aclanthology.info/)（ACL）期刊选集。
     - [此网站](https://paperswithcode.com/area/natural-language-processing) 总结了所在 NLP 各个任务目前的最前沿论文以及相应的代码， 
 - 汇总
-    - NLP 各方面：https://github.com/fighting41love/funNLP
-    - NLP 开源项目：https://github.com/yongzhuo/nlp_xiaojiang
+    - [NLP 各方面](https://github.com/fighting41love/funNLP)
+    - [NLP 开源项目](https://github.com/yongzhuo/nlp_xiaojiang)
 - 工具包
     - 中文语料库：https://github.com/Embedding/Chinese-Word-Vectors
-    - nltk_data: https://github.com/nltk/nltk_data 手动下载nltk_data地址
+    - [nltk_data](https://github.com/nltk/nltk_data) 手动下载nltk_data地址
 -----------------------------------------------------------------------------------------------------------------------------------------
