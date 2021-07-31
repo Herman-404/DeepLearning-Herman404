@@ -1,5 +1,5 @@
 # ML-and-DL-algorithms
-一起学习吧！致力于机器学习与深度学习的资料分享和实现代码的分享
+一起学习吧！致力于深度学习的资料分享和从头搭建相关代码
 ---------------------------------------------------------------------------------------------------------------------------------------
 资料分享
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -25,4 +25,6 @@
     - [nltk_data(github)](https://github.com/nltk/nltk_data) [nltk_data(gitee)](https://gitee.com/qwererer2/nltk_data/tree/gh-pages/) 手动下载nltk_data地址
 - 经典模型相关
     - Bert: [Attention Is All You Need](https://arxiv.org/abs/1706.03762) |  [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | [谷歌开源的 BERT 模型预训练参数和使用 TensorFlow 的实现](https://github.com/google-research/bert)
+- 经典算法相关
+    - CRF：[HMM,MEMM,CRF模型的比较](https://www.cnblogs.com/hellochennan/p/6624509.html) | [The Label Bias Problem](https://awni.github.io/label-bias/) 
 -----------------------------------------------------------------------------------------------------------------------------------------
